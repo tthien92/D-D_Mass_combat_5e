@@ -1,7 +1,6 @@
 # D-D_Mass_combat_5e
-D&amp;D Mass Combat Simulator for 5e
 
-# Summary
+## Summary
 
 D&D is a game played by millions, but one of the key limitations has been the implementation of mass combat. New rules from Unearthed Arcana dictacte try to expand on this, but the guidelines are rather lackluster in allowing players to have direct impacts on the battlefield, reducing damage to overall troop damage and morale. 
 
